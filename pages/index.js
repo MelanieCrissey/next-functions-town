@@ -16,9 +16,9 @@ export default function Home() {
           A funky little demo site for Netlify Functions
         </p>
         <div>
-          <button>
+          <a href="/.netlify/functions/move">
             Let's move
-          </button>
+          </a>
         </div>
       </main>
       <Footer />
