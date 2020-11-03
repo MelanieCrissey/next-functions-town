@@ -8,11 +8,6 @@ export default function Home() {
       <Head>
         <title>Functions Town</title>
         <link rel="icon" href="/favicon.ico" />
-    <!-- Dashly BEGIN -->
-<script type="text/javascript">
-!function(){function t(t,e){return function(){window.dashlyasync.push(t,arguments)}}if("undefined"==typeof dashly){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//cdn.dashly.app/api.min.js",document.getElementsByTagName("head")[0].appendChild(e),window.dashly={},window.dashlyasync=[],dashly.settings={};for(var n=["connect","track","identify","auth","oth","onReady","addCallback","removeCallback","trackMessageInteraction"],a=0;a<n.length;a++)dashly[n[a]]=t(n[a])}}(),dashly.connect("3292-532aa082fc243471565f69ce8a4");
-</script>
-<!-- Dashly END -->
       </Head>
 
       <main>
